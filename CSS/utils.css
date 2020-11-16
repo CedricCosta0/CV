@@ -1,0 +1,9 @@
+.container, .mini-containter{
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+.container-fluid{
+   width: 100vw;
+}
